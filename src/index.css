@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-violet-5: #f6f8fc;
+  --color-violet-10: rgb(236, 241, 255);
+}

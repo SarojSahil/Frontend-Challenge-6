@@ -1,2 +1,3 @@
 # Frontend-Challenge-6
-Re creating ui designs to practice html and css.
+
+Re creating UI designs to practice frontend development skills.
